@@ -1,0 +1,10 @@
+C:\Development\BackEnd\C#_Projects\CalculoCopago\bin\Debug\CalculoCopago.exe.config
+C:\Development\BackEnd\C#_Projects\CalculoCopago\bin\Debug\CalculoCopago.exe
+C:\Development\BackEnd\C#_Projects\CalculoCopago\bin\Debug\CalculoCopago.pdb
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.csproj.AssemblyReference.cache
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.Form1.resources
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.Properties.Resources.resources
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.csproj.GenerateResource.cache
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.exe
+C:\Development\BackEnd\C#_Projects\CalculoCopago\obj\Debug\CalculoCopago.pdb
